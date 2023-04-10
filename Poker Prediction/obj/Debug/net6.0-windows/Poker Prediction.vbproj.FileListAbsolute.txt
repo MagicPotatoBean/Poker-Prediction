@@ -1,0 +1,17 @@
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\bin\Debug\net6.0-windows\Poker Prediction.exe
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\bin\Debug\net6.0-windows\Poker Prediction.deps.json
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\bin\Debug\net6.0-windows\Poker Prediction.runtimeconfig.json
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\bin\Debug\net6.0-windows\Poker Prediction.dll
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\bin\Debug\net6.0-windows\Poker Prediction.pdb
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\obj\Debug\net6.0-windows\Poker Prediction.vbproj.AssemblyReference.cache
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\obj\Debug\net6.0-windows\Poker_Prediction.Form1.resources
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\obj\Debug\net6.0-windows\Poker Prediction.vbproj.GenerateResource.cache
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\obj\Debug\net6.0-windows\Poker Prediction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\obj\Debug\net6.0-windows\Poker Prediction.AssemblyInfoInputs.cache
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\obj\Debug\net6.0-windows\Poker Prediction.AssemblyInfo.vb
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\obj\Debug\net6.0-windows\Poker Prediction.vbproj.CoreCompileInputs.cache
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\obj\Debug\net6.0-windows\Poker Prediction.dll
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\obj\Debug\net6.0-windows\refint\Poker Prediction.dll
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\obj\Debug\net6.0-windows\Poker Prediction.pdb
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\obj\Debug\net6.0-windows\Poker Prediction.genruntimeconfig.cache
+C:\Users\terra\source\repos\Poker Prediction\Poker Prediction\obj\Debug\net6.0-windows\ref\Poker Prediction.dll
